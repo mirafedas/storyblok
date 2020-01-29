@@ -1,6 +1,6 @@
-# storyblok
+# story
 
-> My premium Nuxt.js project
+> My doozie Nuxt.js project
 
 ## Build Setup
 

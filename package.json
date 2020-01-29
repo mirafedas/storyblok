@@ -1,24 +1,17 @@
 {
-  "name": "storyblok",
+  "name": "story",
   "version": "1.0.0",
-  "description": "My premium Nuxt.js project",
-  "author": "mfedas",
+  "description": "My doozie Nuxt.js project",
+  "author": "oldsadpanda",
   "private": true,
   "scripts": {
     "dev": "nuxt",
     "build": "nuxt build",
     "start": "nuxt start",
-    "generate": "nuxt generate",
-    "test": "jest"
+    "generate": "nuxt generate"
   },
   "dependencies": {
     "nuxt": "^2.0.0"
   },
-  "devDependencies": {
-    "@nuxtjs/vuetify": "^1.0.0",
-    "@vue/test-utils": "^1.0.0-beta.27",
-    "babel-jest": "^24.1.0",
-    "jest": "^24.1.0",
-    "vue-jest": "^4.0.0-0"
-  }
+  "devDependencies": {}
 }
